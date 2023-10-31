@@ -23,7 +23,7 @@ Package Helper 3 Test 01
         :target: https://codecov.io/gh/francois-durand/package-helper-3-test-01/tree/main
         :alt: Code Coverage
 
-This is a test of Package Helper 3.
+This is a test of Package Helper 3. It is so cool.
 
 
 * Free software: MIT license
